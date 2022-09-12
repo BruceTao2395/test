@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--虚拟MES-->
+<root ver="1.0">
+  <!--数据-->
+  <data>
+    <li>BJWORK2196463</li>
+    <li>20</li>
+    <li>165201012710B21515T0655M</li>
+    <li>103001001600S20B24S0020P</li>
+    <li>10.30.01.0016.00</li>
+    <li>iTN2100-8GF</li>
+    <li>A.00</li>
+    <li>A.00</li>
+    <li></li>
+    <li></li>
+    <li>MTS计划模式</li>
+    <li></li>
+    <li>103001001600S20B24S0001P</li>
+    <li>7891E9-V9EUP7891E93C6D2E</li>
+    <li>RCOME93C6D2E</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li>1</li>
+    <li>BJWORK2196463-0</li>
+    <li>测试</li>
+    <li>BJWORK2196463</li>
+    <li>FA</li>
+    <li>A线</li>
+    <li>深圳制造一部</li>
+    <li>SZ301</li>
+    <li>测试</li>
+    <li>RA2329AV11_20150820.rbf.rsh,iTN2100-16GF_A_SYSTEM_5.8.10_20180514.rar,iTN2100-16GF_BOOTROM_V1.1.7.20130524.rar,iTN2100-8GF_VA.2_U40_CPLD_V2.1_20121122.rar,iTN2100-16GF_A_FLASH_BOOT_FPGA_SYSTEM_1.12_20181012.rar</li>
+  </data>
+</root>

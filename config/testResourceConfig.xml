@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--测试端口资源-->
+
+<root>
+    <!--Serial可选资源-->
+    <Serial name="串口">
+        <!--端口-->
+        <port>
+        	<li>COM1</li>
+        	<li>COM2</li>
+            <li>COM3</li>
+        	<li>COM4</li>
+            <li>COM5</li>
+        	<li>COM6</li>
+            <li>COM7</li>
+        	<li>COM8</li>
+            <li>COM9</li>
+        	<li>COM10</li>
+            <li>COM11</li>
+        	<li>COM12</li>
+            <li>COM13</li>
+        	<li>COM14</li>
+            <li>COM15</li>
+        	<li>COM16</li>
+            <li>COM17</li>
+        	<li>COM18</li>
+            <li>COM19</li>
+        	<li>COM20</li>
+            <li>COM21</li>
+        	<li>COM22</li>
+            <li>COM23</li>
+            <li>COM24</li>
+            <li>COM25</li>
+            <li>COM26</li>
+            <li>COM27</li>
+            <li>COM28</li>
+            <li>COM29</li>
+            <li>COM30</li>
+        </port>
+
+        <!--参数-->
+        <var>
+        	<li>9600</li>
+        	<li>115200</li>
+        </var>
+    </Serial>
+
+    <!--telnet可选资源-->
+    <Telnet name="网口">
+        <!--端口-->
+        <port>
+        	<li>192.168.1.1</li>
+            <li>192.168.1.254</li>
+        	<li>192.168.0.1</li>
+            <li>192.168.0.254</li>
+        </port>
+
+        <!--参数-->
+        <var>
+        	<li>23</li>
+        </var>
+    </Telnet>
+
+     <!--telnet可选资源-->
+    <Web name="网页">
+        <!--端口-->
+        <port>
+        	<li>http://192.168.0.1</li>
+            <li>http://192.168.1.1</li>
+            <li>http://192.168.10.1</li>
+            <li>http://192.168.2.1</li>
+            <li>http://192.168.60.52</li>
+        </port>
+
+        <!--参数-->
+        <var>
+        	<li>80</li>
+        	<li>8080</li>
+        </var>
+    </Web>
+</root>

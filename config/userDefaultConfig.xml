@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root ver="1.0">
+  <!--登录框用户默认记录-->
+  <userID>006802</userID>
+  <!--工单录入对话框用户默认记录-->
+  <gongdan_luru>
+    <xianti>F测试 (21F002)</xianti>
+    <gongxu>测试 (SZ301)</gongxu>
+    <renshu>4</renshu>
+    <danhao>BJWORK1454667</danhao>
+  </gongdan_luru>
+  <!--工位配置记录-->
+  <gongwei_peizhi>
+    <!--工位1-->
+    <gongwei id="1">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource>COM1</resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位2-->
+    <gongwei id="2">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource>COM2</resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位3-->
+    <gongwei id="3">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource>COM3</resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位4-->
+    <gongwei id="4">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource>COM4</resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位5-->
+    <gongwei id="5">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource></resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位6-->
+    <gongwei id="6">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource></resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位7-->
+    <gongwei id="7">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource></resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+    <!--工位8-->
+    <gongwei id="8">
+      <li>
+        <id>1</id>
+        <type>串口</type>
+        <resource></resource>
+        <paramete>9600</paramete>
+      </li>
+    </gongwei>
+  </gongwei_peizhi>
+</root>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+
+    <set label="全局参数">
+        <IntCtrl label="工位数量" name="gongwei_num" value="4" min="1" max="8" width="200"/>
+        
+        <Choice label="语言" name="Choice" choices="简体中文,English,にほんご" value="1" width="100"/>
+
+    </set>
+
+
+    <gongweiset label="工位设置">
+
+    </gongweiset>
+
+</root>
